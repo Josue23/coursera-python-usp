@@ -4,7 +4,7 @@ https://panda.ime.usp.br/aulasPython/static/aulasPython/aula02.html
 Dado um número inteiro n >= 0, calcular n!
 '''
 
-
+# define a funcao fatorial
 def fatorial():
     n = int(input('Digite n: '))
 
